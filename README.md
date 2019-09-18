@@ -19,55 +19,60 @@ Additionally, all our volunteers are online on Slack to answer your questions, i
 
 Additionally, all talks are recorded and uploaded to YouTube. This is done with the purpose to help all those who want to take our course and can't attend one meeting (e.g. if you caught a cold) or any meeting (e.g.  if you have to babysit). If you will watch all talks, live or online, and present a satisfying final project - you will get the graduation certificate.
 
+#### Submitting your activities
+
+Add your exercise solution to this [spreadsheet](https://tinyurl.com/yy59zqnj).
+
 #### Syllabus
 
 ###### Lecture 1: JavaScript & ES6 Fundamentals
 
 An introduction on how JavaScript works and how to take advantage of the new ES6 syntax and features. In this session, we cover the basic programming paradigms in JavaScript, as well as topics like OOP and functional programming. We use the Chrome browser as a playground for an interactive session.
 
-[Recorded talk](https://youtu.be/xgzHW_WqYnM)
+[Recorded talk from Berlin](https://youtu.be/xgzHW_WqYnM)
+[Recorded talk from London - no audio](https://youtu.be/MP0wROOhyH8)
 
 ###### Lecture 2: Node.js Ecosystem & Basics
 
 A fast dive into the Node.js ecosystem, detailing its working principles. A brief intro to its implementation and moving on to making use of and creating modules. Demonstration of the previous JavaScript and ES6 fundamentals, delving into the module pattern and several examples to familiarize with npm packages. We also talk about interacting with the file system. Useful tools like PM2 and nodemon are introduced in this session, as well as live debugging with Node.js. We use Visual Studio Code as the IDE of choice.
 
-[Recorded talk](https://youtu.be/MP0wROOhyH8)
+[Recorded talk from Berlin](https://youtu.be/MP0wROOhyH8)
 
 ###### Lecture 3: Promises and Async Programming
 
 This session focuses on solving the challenges of asynchronous programming with certain constructs in Node.js — promises, async and await keywords. We discuss how each implementation enables a certain way of programming, and introduce a control flow library called async. We also touch upon streams and stream programming.
 
-[Recorded talk](https://youtu.be/RH_lwP-mjVM)
+[Recorded talk from Berlin](https://youtu.be/RH_lwP-mjVM)
 
 ###### Lecture 4: HTTP APIs with Express.js
 
 An introduction to web applications with the express framework and most popular packages including sessions and authentication, as well middleware implementations. We go into the details of HTTP and talk about RESTful APIs. We start implementing an example back-end application with express. We briefly talk about real-time capabilities with WebSockets.
 
-[Recorded talk](https://www.youtube.com/watch?v=ofQu4y-5v6c)
+[Recorded talk from Berlin](https://www.youtube.com/watch?v=ofQu4y-5v6c)
 
 ###### Lecture 5: Adding a MongoDB Datastore
 
 This session improves on the previous express application and introduces a MongoDB database as the datastore. We look into mongoose ODM and how to model simple data structures in MongoDB. We also talk about database denormalization approaches MongoDB enables. Further experiments with MongoDB queries and wiring the REST endpoints of the express app to real data.
 
-[Recorded talk](https://www.youtube.com/watch?v=EYYO4Le8bWQ)
+[Recorded talk from Berlin](https://www.youtube.com/watch?v=EYYO4Le8bWQ)
 
 ###### Lecture 6: Testing
 
 This session focuses on testing Node.js applications and the APIs that we have developed. We talk about general best practices in testing software, and several layers of application testing including unit testing, integration testing and acceptance testing. We implement several tests for our APIs with the test runner [AVA](https://github.com/avajs/ava).
 
-[Recorded talk](https://www.youtube.com/watch?v=NXMwf2OSVWQ)
+[Recorded talk from Berlin](https://www.youtube.com/watch?v=NXMwf2OSVWQ)
 
 ###### Lecture 7: The Frontend
 
 It’s time to give our application a real face. In this session we will go over the best practices of frontend engineering and building user interface applications. We will look at Vue.js, talk about its features and capabilities, and build a simple frontend with it.
 
-[Recorded talk](https://www.youtube.com/watch?v=io-hSpo_Yos&index=11&list=PL9pDl_Oth4cruQEVM4qUBKN-H4QMWGNNU)
+[Recorded talk from Berlin](https://www.youtube.com/watch?v=io-hSpo_Yos&index=11&list=PL9pDl_Oth4cruQEVM4qUBKN-H4QMWGNNU)
 
 ###### Lecture 8: Deploying & Scaling Apps with Docker
 
 The final session in this series introduces the final step in an application's lifecycle — the deployment. We learn the basics of Docker and how to deploy our Node.js applications with Docker. We introduce the concepts of continuous integration and continuous deployment, as well as automated testing. This session also includes scaling Node.js applications with load balancers and a reverse proxy setup with nginx.
 
-[Recorded talk](https://youtu.be/R2eYylz41Gg)
+[Recorded talk from Berlin](https://youtu.be/R2eYylz41Gg)
 
 ###### Lecture 9: Graduation Event
 
@@ -113,10 +118,6 @@ Join the [GDG Cloud Slack](https://join.slack.com/t/womentechmakersberlin/shared
 Join the #js-crash-course channel.
 
 #### FAQ for Students
-
-**Do I need programming knowledge to attend the Advanced course?**
-
-Some previous programming knowledge would be really useful.
 
 **Do I need to attend to all the sessions?**
 
