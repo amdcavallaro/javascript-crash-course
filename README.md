@@ -15,9 +15,9 @@ Finally, this is a challenging, intensive, but fun and resourceful course. We wi
 We also have a dedicated Slack channel (#js-crash-course) in the [GDG Cloud Slack](http://slack.gdgcloud.com/) to help out the attendees with their assignments outside the class hours. An invite link to our Slack can be found in each of the meetup events.
 
 During the meetings a group of volunteers will be around to answer your questions.
-Additionally, all our volunteers are online on Slack to answer your questions, in addition to several online-only volunteers. You'll spot them easily - they have a red cross helmet emoji as part of their names.
+Additionally, all our volunteers are online on Slack to answer your questions, in addition to several online-only volunteers. 
 
-Additionally, all talks are recorded and uploaded to YouTube. This is done with the purpose to help all those who want to take our course and can't attend one meeting (e.g. if you caught a cold) or any meeting (e.g.  if you have to babysit). If you will watch all talks, live or online, and present a satisfying final project - you will get the graduation certificate.
+Additionally, most talks are recorded and uploaded to YouTube. This is done with the purpose to help all those who want to take our course and can't attend one meeting (e.g. if you caught a cold) or any meeting (e.g.  if you have to babysit). If you will watch all talks, live or online, and present a satisfying final project - you will get the graduation certificate.
 
 #### Submitting your activities
 
@@ -117,11 +117,24 @@ This session improves on the previous express application and introduces a Mongo
 
 [Recorded talk from Berlin](https://www.youtube.com/watch?v=EYYO4Le8bWQ)
 
+[London Slides by Ola](https://slack-files.com/T3NQYG60N-FNUS23KD0-428efaa282)
+
 ###### Lecture 6: Testing
 
 This session focuses on testing Node.js applications and the APIs that we have developed. We talk about general best practices in testing software, and several layers of application testing including unit testing, integration testing and acceptance testing. We implement several tests for our APIs with the test runner [AVA](https://github.com/avajs/ava).
 
 [Recorded talk from Berlin](https://www.youtube.com/watch?v=NXMwf2OSVWQ)
+
+*London*
+
+These are the course materials for today:
+If you can:
+1. Open up the slides
+2. Unzip the Code Project and open it up in your IDE (Visual Studio)
+
+[Slides from London by Laura](http://bit.ly/2Mm1owv)
+
+[ExpressMongoDB](https://slack-files.com/T3NQYG60N-FP9RP4JLW-9ad80b54ab)
 
 ###### Lecture 7: The Frontend
 
