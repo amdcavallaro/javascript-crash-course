@@ -97,10 +97,12 @@ An introduction to web applications with the express framework and most popular 
 [Recorded talk from Berlin](https://www.youtube.com/watch?v=ofQu4y-5v6c)
 
 London:
-videos of the class (link will change, this is a temp one but working):
-* question aboud promises vs callbacks: https://lorenzomixedstuff.s3-eu-west-1.amazonaws.com/gdg_lesson_4_promise_vs_callback.mkv
-* part one (slides): https://lorenzomixedstuff.s3-eu-west-1.amazonaws.com/gdg_lesson_4_pt1.mkv
-* part two (coding): https://lorenzomixedstuff.s3-eu-west-1.amazonaws.com/gdg_lesson_4_pt2.mkv
+JS Crash Course - Lesson 4 - promise vs callback: https://youtu.be/EEKUgUd7veY 
+
+JS Crash Course - Lesson 4 pt1: https://www.youtube.com/watch?v=bma_Hn0D21M&feature=youtu.be
+
+JS Crash Course - Lesson 4 pt2: https://www.youtube.com/watch?v=9CM7fICC9Ww&feature=youtu.be
+
 links and extra notions that might be interesting:
 * docs for express, our server framework (not the only one available!): https://expressjs.com/
 * docs for fs-extra, the file system package used during the lesson: https://www.npmjs.com/package/fs-extra
@@ -142,26 +144,23 @@ It’s time to give our application a real face. In this session we will go over
 
 [Recorded talk from Berlin](https://www.youtube.com/watch?v=io-hSpo_Yos&index=11&list=PL9pDl_Oth4cruQEVM4qUBKN-H4QMWGNNU)
 
+London:
+Slides by Ola: https://slack-files.com/T3NQYG60N-FPSA1JMLP-255541c714
+
 ###### Lecture 8: Deploying & Scaling Apps with Docker
 
 The final session in this series introduces the final step in an application's lifecycle — the deployment. We learn the basics of Docker and how to deploy our Node.js applications with Docker. We introduce the concepts of continuous integration and continuous deployment, as well as automated testing. This session also includes scaling Node.js applications with load balancers and a reverse proxy setup with nginx.
 
 [Recorded talk from Berlin](https://youtu.be/R2eYylz41Gg)
 
+try to get git (or the github GUI) installed locally - https://help.github.com/en/github/getting-started-with-github/set-up-git is a good guide with good links to follow
+https://github.com/robota-x/gdg_lesson_8_express
+https://express-sample-app-lorenzo.herokuapp.com/
+https://devcenter.heroku.com/articles/getting-started-with-nodejs
+https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-
+
 ###### Lecture 9: Graduation Event
 
-We will gather to see the final projects and cheer our classmates!
-
-See the [graduation event pictures of the event in Berlin](https://www.facebook.com/pg/WomenTechmakersBerlinPage/photos/?tab=album&album_id=1561335890621986)
-
-Last year, Women TechMakers Berlin had the talk "JavaScript is a Buffet, not a Main Course" by [Chris Heilamnn](http://christianheilmann.com/),
-
-Talk Description:
-Now that you learned about JavaScript, you're ready to take on the world as JavaScript runs everywhere. The trick is to not get overwhelmed and to find what makes you happy as happy developers are effective developers.
-
-Chris Heilmann has a 18 year old history of using the language and wrote many books about it. Let him help you not get lost in the rabbit hole that is JavaScript in 2017.
-
-Read about the talk: [So, you learned JavaScript – what now?](https://christianheilmann.com/2017/12/05/so-you-learned-javascript-what-now/)
 
 
 
@@ -170,7 +169,7 @@ Read about the talk: [So, you learned JavaScript – what now?](https://christia
 Sign up on [Meetup.com](https://www.meetup.com/gdgcloud/events/263641541/).
 Please be aware you'll be required to attend at least 80% of the classes to successfully complete the course.
 
-#### Diversity and Code of 
+#### Diversity and Code of Conduct
 
 
 Our mission is that everyone feels welcome to our events no matter gender or
